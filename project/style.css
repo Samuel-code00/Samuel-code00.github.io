@@ -1,0 +1,161 @@
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 10px ;
+    
+    
+}
+
+
+.icon{
+    float: right;
+    clear: both;
+    
+}
+
+
+.main{
+        
+   width: 100%;
+   z-index: 1;
+}
+
+.head{
+    z-index: 1;
+    position: absolute;
+    padding-top: 50px;
+    font-size: 120px;
+    color: white;
+    left: 90px;
+    
+}
+
+.head1{
+    z-index: 2;
+    position: absolute;
+    width: 500px;
+    color: white;
+    padding-left: 490px;
+    padding-top: 400px;
+    font-size: 50px;
+    justify-content: space-around;
+}
+
+.read-more{
+    display: flex;
+    gap: 20px;
+    /* width: 800px; */
+    margin: auto;
+    padding-top: 80px;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+#border{
+    border: 1px solid gray;
+    background-color: lightgreen;
+}
+
+.num{
+    color: grey;
+    font-size: 20px;
+}
+
+.sub-head{
+  font-size: 25px;
+}
+
+.video{
+    padding-top: 60px;
+}
+
+
+.project1{
+    padding-left: 50px ;
+    padding-top: 50px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.project{
+    padding-top: 50px;
+    display: flex;
+    gap: 10px;
+    overflow: scroll;
+}
+
+#width{
+    width: 500px;
+    height: 350px;
+}
+
+.service{
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#wind{
+    border-radius: 12px;
+}
+
+.service-wind{
+    display: flex;
+    text-align: justify;
+    flex-wrap: wrap;
+    padding: 98px 50px;
+    gap: 20px;
+    font-size: 25px;
+}
+
+#p{
+    display: block;
+}
+
+.partner1{
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 30px;
+    
+}
+
+.partner{
+    display: flex;
+    padding-left: 45px;
+    padding-top: 50px;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.end-links{
+    display: flex;
+    /* background-color: rgba(255, 218, 186,0.2); */
+    justify-content: space-around;
+    padding-top: 150px;
+ }
+
+ .CEO{
+    line-height:25px;
+ }
+ 
+ .a-link{
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ .c-care{
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ .term{
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ .end-links a{
+     text-decoration: none;
+ }
