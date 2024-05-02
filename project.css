@@ -1,3 +1,16 @@
+/* @media screen and (max-width: 380px){
+    body{
+        display: block;
+
+    }
+    img{
+        display: block;
+    }
+    nav a{
+        display: block;
+    }
+} */
+
 nav a{
     display: inline-block;
     text-decoration: none;
